@@ -1,0 +1,81 @@
+img#logo{
+    width:100px;
+    height:auto;
+}
+input#search{
+    width:400px;
+    height: 30px;
+    border: none;
+}
+div#hl{
+    height: 25px;
+    border-left: 1px solid black;
+}
+div#margin{
+    margin-left: 150px;
+    margin-top: 20px;
+    opacity: 70%;
+    font-size: small;
+}
+div#margin p{
+    margin-right: 5px;
+}
+div#margin span{
+    font-size: 20px;
+}
+p#p-m{
+    margin-left: 150px;
+    padding-right: 10px;
+}
+div#width{
+    width: 600px;
+    margin-left: 150px;
+}
+small#results{
+    font-size: 15px;
+    opacity: 50%;
+}
+div#border{
+    border: 1px solid slategray;
+    text-align: justify;
+}
+span#opacity{
+    opacity: 75%;
+}
+a#size{
+    font-size: larger;
+}
+div#icon{
+    opacity: 60%;
+}
+div#icon span, div#icon a{
+    font-size: small;
+}
+p#o85{
+    opacity: 85%;
+    font-size: 15px;
+    text-align: left;
+}
+ul.list-group li{
+    text-align: left;
+}
+div.border{
+    border: 1px solid lightgrey;
+}
+ul.bottom{
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    margin: 0;
+    color: slategray;
+}
+ul.up{
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+ul.low, ul.up{
+    height: 35px;
+    padding-left: 150px;
+}
+a.bot{
+    padding-right: 10px;
+}
